@@ -2,4 +2,7 @@
   <action id="ToolWindowsGroup">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
 </keymap>
