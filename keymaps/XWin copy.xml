@@ -2,7 +2,14 @@
   <action id="ToolWindowsGroup">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>
